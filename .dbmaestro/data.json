@@ -84,6 +84,34 @@
               }
             }
           ]
+        },
+        {
+          "UserName": "bozberkeoz",
+          "DatabasesData": [
+            {
+              "DatabaseId": "0872acde-4c78-468b-a4b5-a7d3aa79ec50",
+              "DatabaseAliasName": "DB1",
+              "DatabaseConnectionDetails": null,
+              "BranchesDatabaseConnectionDetails": [
+                {
+                  "BranchName": "main",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "Oracle",
+                    "host": "localhost",
+                    "port": "1521",
+                    "identifierType": "SERVICE_NAME",
+                    "identifier": "XEPDB1",
+                    "userName": "DEMO_9",
+                    "Password": "qrE4JauJd0gM7CQ0IggpFA=="
+                  }
+                }
+              ],
+              "RepositoryCredentials": {
+                "UserName": "bozberkeoz",
+                "Password": "mDAxcxPQQ9lemYV+fIh0BR0BwdDE76JB4dLIdIJyTMBMeM8yZ4C0YZD2JuOkPf2m"
+              }
+            }
+          ]
         }
       ],
       "DatabasesStaticDataObjects": null,
